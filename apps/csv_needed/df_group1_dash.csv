@@ -1,0 +1,21 @@
+user_id,product_id,count,total_count,rating_by_order,rating_by_product,product_name,aisle,department
+106636,24841,1,83,0.125,0.012048192771084338,Aged White Cheddar Baked Rice & Corn Puffs Gluten Free Lunch Packs,chips pretzels,snacks
+62710,29053,1,59,0.16666666666666666,0.01694915254237288,Cold Season Caffeine Free Tea Bags,tea,beverages
+87064,21914,4,66,0.2857142857142857,0.06060606060606061,Peanut Butter & Jelly Fruit & Nut Food Bar,energy granola bars,snacks
+90134,34165,1,41,0.2,0.024390243902439025,Fat Free Half & Half,cream,dairy eggs
+71309,39178,1,11,0.3333333333333333,0.09090909090909091,Organic Blood Orange Energy Drink,energy sports drinks,beverages
+60446,8959,2,86,0.3333333333333333,0.023255813953488372,Organic Balance Vanilla Bean Milk Protein Shake,protein meal replacements,personal care
+138273,31893,1,38,0.14285714285714285,0.02631578947368421,Ice Cream Chocolate Mocha Chip,ice cream ice,frozen
+191270,41971,1,61,0.09090909090909091,0.01639344262295082,Puff Pastry Shells,frozen breads doughs,frozen
+55421,31130,1,105,0.07692307692307693,0.009523809523809525,Sea Salt Flakes Original,spices seasonings,pantry
+202143,47626,1,109,0.06666666666666667,0.009174311926605505,Large Lemon,fresh fruits,produce
+61574,48226,1,64,0.14285714285714285,0.015625,Select-A-Size White Giant Roll Paper Towels,paper goods,household
+109408,40723,3,77,0.5,0.03896103896103896,Organic Cripps Pink Apples,fresh fruits,produce
+27833,13324,1,53,0.25,0.018867924528301886,Premium Extract Milk Thistle Standardized Capsules 80% Silymarin Dietary Supplement,vitamins supplements,personal care
+158326,7116,1,56,0.25,0.017857142857142856,Large Enriched Bread,bread,bakery
+10230,4799,3,72,0.17647058823529413,0.041666666666666664,Shredded Parmesan,packaged cheese,dairy eggs
+119229,24925,2,70,0.2857142857142857,0.02857142857142857,Mint Chocolate Chip Frozen Greek Yogurt Bars,ice cream ice,frozen
+193428,48664,1,54,0.3333333333333333,0.018518518518518517,Natchrm Evap Cntmlk12.2,juice nectars,beverages
+35207,37917,1,22,0.3333333333333333,0.045454545454545456,Orange Peach Mango,refrigerated,beverages
+103098,47325,1,69,0.2,0.014492753623188406,100% Pomegranate Juice,juice nectars,beverages
+6352,43961,1,29,0.3333333333333333,0.034482758620689655,Organic Peeled Whole Baby Carrots,packaged vegetables fruits,produce
