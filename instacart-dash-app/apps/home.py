@@ -23,6 +23,18 @@ layout = html.Div([
         html.Div(style={'padding': 20}),
 
         dbc.Row([
+            dbc.Col(html.H6("With this Instacart Dataset, we would like to create a Product Recommendation System. \
+                Product Recommendation are very interesting and useful for companies, as it helps them to develop \
+                their activity, it helps them to know more obout the customers, \
+                and consequently, it raises the conversion rate. \
+                We decided to work with Collaborative Filtering Recommendation Systems (like Restricted Boltzman \
+                Machine and Alternating Least Squares) because those ones are not just based on the content, but \
+                also on the behavior of users as well."))
+        ]),
+
+        html.Div(style={'padding': 20}),
+
+        dbc.Row([
             dbc.Col(html.H5("Our dataset :") #, className="text-center")
                     , className="ml-2", width = 2),
             dbc.Col(html.Img(src="assets/dataset2.png", style={'width': "600px", 'height': "400px"}), width=6)
