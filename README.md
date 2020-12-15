@@ -23,4 +23,4 @@ The "csv needed" folder is all the CSVs we created to get the graphs on the app.
 
 Secondly, the "assets" folder contains the images we present on the application. 
 
-The "index.py" file is the one to run locally to get the application open. The other files are necassary to define the Dash stylesheet, and to build the application on Heroku.  
+The "index.py" file is the one to run locally to get the application open. The other files are necassary to define the Dash stylesheet, and to build the application on [Heroku](https://instacart-dash-app.herokuapp.com/).  
